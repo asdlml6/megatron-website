@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxjj_lazy_ui=self.webpackChunkxjj_lazy_ui||[]).push([[152],{4469:function(t,n,u){u.r(n),u.d(n,{default:function(){return e}});var l=u(7294);function e(){return l.createElement("div",null,"hello world!")}}}]);
